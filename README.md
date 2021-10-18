@@ -1,6 +1,7 @@
-# friendly-doddle
+# Project: friendly-doddle
 A React App built to allow the user to view some cool tracks of 11 different genres, inspired by Spotify.
 
+# Access:
 Surge link:
 friendly-doddle.surge.sh
 
